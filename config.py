@@ -1,5 +1,6 @@
 # General Config
 source_path = ""
+destination_path = ""
 # Images
 img_types = [
     ".jpg",
